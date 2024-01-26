@@ -1,7 +1,7 @@
 export default {
   secretKey: 'dfae07c9-71dc-495d-9e90-6d4584357f38',
   host: 'http://localhost',
-  port: '3000',
+  port: '3001',
   deviceName: 'WppConnect',
   poweredBy: 'WPPConnect-Server',
   startAllSession: true,
